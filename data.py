@@ -86,6 +86,7 @@ cms_dict = {
 	'phpcms':
 		[
 			('/robots.txt',{'MD5':'0fd86d5f9c1070613e22fb30456bf609'}),
+			('/robots.txt',{'regex':'phpcms'}),
 		],
 	'dtcms(网赢企业网络营销管理系统)':
 		[
